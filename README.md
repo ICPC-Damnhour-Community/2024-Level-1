@@ -52,7 +52,7 @@
 
 ### 🗒 Sheet
 
-[Week 1 Problem Sheet](https://vjudge.net/contest/611791)
+[Sheet 1 (Complexity Analysis & General Problems)](https://vjudge.net/contest/611791)
 
 | Problem                       | Solution                                                                                   |
 |-------------------------------|--------------------------------------------------------------------------------------------|
