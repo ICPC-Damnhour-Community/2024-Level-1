@@ -101,15 +101,15 @@
 | Problem                                                           | Video Solution         | Solution                                                                                                   |
 |-------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------|
 | [Problem A - SPOJ HRECURS](https://vjudge.net/problem/SPOJ-HRECURS)|                        | [Solution A](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/A-Hello-Recursion.cpp)   |
-| [Problem B - AtCoder abc188_b](https://vjudge.net/problem/AtCoder-abc188_b) |                        | Not Yet                                                                                                    |
-| [Problem C - AtCoder abc190_b](https://vjudge.net/problem/AtCoder-abc190_b) |                        | Not Yet                                                                                                    |
-| [Problem D - CodeForces 908B](https://vjudge.net/problem/CodeForces-908B) |                        | Not Yet                                                                                                    |
-| [Problem E - SPOJ INVCNT](https://vjudge.net/problem/SPOJ-INVCNT)  |                        | Not Yet                                                                                                    |
+| [Problem B - AtCoder abc188_b](https://vjudge.net/problem/AtCoder-abc188_b) |                        |                                                                                            |
+| [Problem C - AtCoder abc190_b](https://vjudge.net/problem/AtCoder-abc190_b) |                        |                                                                                             |
+| [Problem D - CodeForces 908B](https://vjudge.net/problem/CodeForces-908B) |                        |                                                                                           |
+| [Problem E - SPOJ INVCNT](https://vjudge.net/problem/SPOJ-INVCNT)  |                        |                                                                                                |
 | [Problem F - CodeForces 652B](https://vjudge.net/problem/CodeForces-652B)   |                        | [Solution F](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/F-z-sort.cpp)          |
 | [Problem G - CodeForces 1339B](https://vjudge.net/problem/CodeForces-1339B) |                        | [Solution G](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/G-Sorted-Adjacent-Differences.cpp) |
 | [Problem H - CodeForces 559B](https://vjudge.net/problem/CodeForces-559B)   | [Watch Solution](https://www.youtube.com/watch?v=fI7Y_W-Dct8&list=PLtN0HDbMdjgPs9VAQIBda3jAepDG_hdjL&index=4) | [Solution H](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/H-Equivalent-Strings.cpp) |
 | [Problem I - CodeForces 479C](https://vjudge.net/problem/CodeForces-479C)   |                        | [Solution I](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/I-Exams.cpp)           |
-| [Problem J - CodeForces 1443C](https://vjudge.net/problem/CodeForces-1443C) |                        | Not Yet                                                                          
+| [Problem J - CodeForces 1443C](https://vjudge.net/problem/CodeForces-1443C) |                        |                                                                    
 
 ### 📚 Additional Resources
 
