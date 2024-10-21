@@ -1,7 +1,5 @@
 # 🌟 Level 1 Training - 2024
 
-Welcome to the Level 1 Training program! This repository contains all the materials, problem sets, and solutions covered in our journey. 🚀
-
 ## 📚 Content
 
 1. **Complexity Analysis**
