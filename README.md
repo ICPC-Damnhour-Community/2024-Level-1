@@ -82,28 +82,42 @@
 
 ### 📺 Lecture Session
 
-| Topic                        | Link to Video                        | Problems Solved                              | Solution Code                                           |
-|------------------------------|--------------------------------------|----------------------------------------------|---------------------------------------------------------|
-| Recursion & Sorting Lecture   | [Watch Lecture](#)                   | [Problem 1](#) • [Problem 2](#)              | [Solution 1](Lecture/solution_week2_problem1.cpp) • [Solution 2](Lecture/solution_week2_problem2.cpp) |
+| Topic                        | Link to Video                                                   | Implementation Code                                                                                     |
+|------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Recursion & Sorting Lecture   | [Watch Lecture](https://youtu.be/xyO4YQhzPDY)                   | [Bubble Sort](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Lecture/Bubble-Sort.cpp) • [Merge Sort](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Lecture/Merge-Sort.cpp) |
+
+**Task (Share your solution):** [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
 ### 💻 Practice Session
 
-| Topic                        | Link to Video                        | Problems Solved                              | Solution Code                                           |
-|------------------------------|--------------------------------------|----------------------------------------------|---------------------------------------------------------|
-| Recursion & Sorting Practice  | [Watch Practice](#)                  | [Problem 3](#) • [Problem 4](#)              | [Solution 3](Practice/solution_week2_problem3.cpp) • [Solution 4](Practice/solution_week2_problem4.cpp) |
+| Topic                        | Link to Video                                                   | Solution Code                                                                                     |
+|------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Recursion & Sorting Practice  | [Watch Practice](#)                                             | [Solution 3](Practice/solution_week2_problem3.cpp) • [Solution 4](Practice/solution_week2_problem4.cpp) |
 
 ### 🗒 Weekly Problem Sheet
 
-| Sheet                        | Problems with Video Solutions        | Solution Code                                           |
-|------------------------------|--------------------------------------|---------------------------------------------------------|
-| [Week 2 Problem Sheet](#)     | [Problem 1 Video](#) • [Problem 2 Video](#) | [Solution 1](Sheet/solution_week2_problem1.cpp) • [Solution 2](Sheet/solution_week2_problem2.cpp) |
+[Sheet 2 (Recursion & Sorting Algorithms)](https://vjudge.net/contest/613469#overview)
+
+| Problem                                                           | Video Solution         | Solution                                                                                                   |
+|-------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------|
+| [Problem A - SPOJ HRECURS](https://vjudge.net/problem/SPOJ-HRECURS)|                        | [Solution A](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/A-Hello-Recursion.cpp)   |
+| [Problem B - AtCoder abc188_b](https://vjudge.net/problem/AtCoder-abc188_b) |                        | Not Yet                                                                                                    |
+| [Problem C - AtCoder abc190_b](https://vjudge.net/problem/AtCoder-abc190_b) |                        | Not Yet                                                                                                    |
+| [Problem D - CodeForces 908B](https://vjudge.net/problem/CodeForces-908B) |                        | Not Yet                                                                                                    |
+| [Problem E - SPOJ INVCNT](https://vjudge.net/problem/SPOJ-INVCNT)  |                        | Not Yet                                                                                                    |
+| [Problem F - CodeForces 652B](https://vjudge.net/problem/CodeForces-652B)   |                        | [Solution F](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/F-z-sort.cpp)          |
+| [Problem G - CodeForces 1339B](https://vjudge.net/problem/CodeForces-1339B) |                        | [Solution G](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/G-Sorted-Adjacent-Differences.cpp) |
+| [Problem H - CodeForces 559B](https://vjudge.net/problem/CodeForces-559B)   | [Watch Solution](https://www.youtube.com/watch?v=fI7Y_W-Dct8&list=PLtN0HDbMdjgPs9VAQIBda3jAepDG_hdjL&index=4) | [Solution H](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/H-Equivalent-Strings.cpp) |
+| [Problem I - CodeForces 479C](https://vjudge.net/problem/CodeForces-479C)   |                        | [Solution I](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/I-Exams.cpp)           |
+| [Problem J - CodeForces 1443C](https://vjudge.net/problem/CodeForces-1443C) |                        | Not Yet                                                                          
 
 ### 📚 Additional Resources
 
 | Type          | Resource                                          |
 |---------------|---------------------------------------------------|
-| 📄 Article    | [Recursion Basics](#)                             |
-| 🎥 Video      | [Merge Sort Explained](#)                         |
+| 📄 Article    | [Sorting Theory](https://usaco.guide/CPH.pdf#page=35) |
+| 🎥 Video      | [Intro to Recursive Function](https://www.youtube.com/watch?v=ZlyYQqYj2W8) |
+| 🎥 Video      | [Recursion](https://www.youtube.com/watch?v=hyk46UmJPS4)|
 
 ---
 
