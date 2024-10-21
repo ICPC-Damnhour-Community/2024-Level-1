@@ -42,7 +42,7 @@
 
 ---
 
-# 📝 Week 1
+# Week 1
 
 ### 📺 Lecture Session
 
@@ -78,7 +78,7 @@
 
 ---
 
-# 📝 Week 2
+# Week 2
 
 ### 📺 Lecture Session
 
