@@ -49,12 +49,6 @@
 |-----------------------------|----------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | Complexity Analysis | [Watch Lecture](https://youtu.be/VuRHqzOL6No)| [Maximum Sub-array Sum Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-1/Lecture/Maximum-Subarray-Sum.cpp) |
 
-### Practice Session
-
-| Topic                       | Link to Video                                | Problems Solved                                                                 | Solution Code                                                                                   |
-|-----------------------------|----------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Complexity Analysis | [Watch Practice](https://youtube.com/playlist?list=PLtN0HDbMdjgOcqZsLkS_hOYe_JEAYs2wk) | Various Problems | Solutions provided in GitHub (Link to specific codes in the repo) |
-
 ### Sheet
 
 [Week 1 Problem Sheet](https://vjudge.net/contest/611791)
