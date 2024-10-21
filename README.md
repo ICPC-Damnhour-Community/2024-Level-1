@@ -52,7 +52,7 @@
 
 ### 🗒 Sheet
 
-[Sheet 1 (Complexity Analysis & General Problems)](https://vjudge.net/contest/611791)
+ 📌 [Sheet 1 (Complexity Analysis & General Problems)](https://vjudge.net/contest/611791)
 
 | Problem                       | Solution                                                                                   |
 |-------------------------------|--------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@
 
 ### 🗒 Weekly Problem Sheet
 
-[Sheet 2 (Recursion & Sorting Algorithms)](https://vjudge.net/contest/613469#overview)
+ 📌 [Sheet 2 (Recursion & Sorting Algorithms)](https://vjudge.net/contest/613469#overview)
 
 | Problem                                                           | Video Solution         | Solution                                                                                                   |
 |-------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------|
@@ -111,7 +111,7 @@
 | [Problem I - CodeForces 479C](https://vjudge.net/problem/CodeForces-479C)   |                        | [Solution I](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-2/Sheet/I-Exams.cpp)           |
 | [Problem J - CodeForces 1443C](https://vjudge.net/problem/CodeForces-1443C) |                        |                                                                    
 
-### 📚 Additional Resources
+### 📚 Resources
 
 | Type          | Resource                                          |
 |---------------|---------------------------------------------------|
@@ -122,7 +122,54 @@
 ---
 
 # Week 3
-...
+
+### 📺 Lecture Session
+
+ 📌 [Watch (Preprocessing Techniques)](https://youtu.be/jRyU64dWA3E)
+
+| Topic                   | Problems Solved                                                                 | Solution Code                                                                                   |
+|-----------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Counting Queries (Frequency Array) | - [Sort Colors](https://leetcode.com/problems/sort-colors/) <br> - [Pangram](https://codeforces.com/contest/520/problem/A) | - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Lecture/Sort-Colors.cpp) <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Lecture/Pangram.cpp) |
+| Range Sum Queries (Prefix & Suffix Sum) | - [Range sum query](https://codeforces.com/group/T3p02rhrmb/contest/326053/problem/Y) <br> - [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Lecture/Range-sum-query.cpp) <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Lecture/TapeEquilibrium.cpp) |
+| Range Update Queries (Partial Sum) | - [Points in Segments](https://codeforces.com/contest/1015/problem/A) | - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Lecture/Points-in-Segments.cpp) |
+
+### 💻 Practice Session
+
+| Topic                        | Link to Video                                                   | Solution Code                                                                                     |
+|------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Recursion & Sorting Practice  | [Watch Practice](#)                                             | [Solution 3](Practice/solution_week2_problem3.cpp) • [Solution 4](Practice/solution_week2_problem4.cpp) |
+
+### 🗒 Weekly Problem Sheet
+
+ 📌 [Sheet 3 (Static Range Queries)](https://vjudge.net/contest/614952#overview)
+
+| Problem                                                        | Video Solution | Solution                                                                                                   |
+|----------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------|
+| [Problem A - CodeForces 313B](https://vjudge.net/problem/CodeForces-313B) |                | [Solution A](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/A-Ilya-and-Queries.cpp)       |
+| [Problem B - SPOJ CSUMQ](https://vjudge.net/problem/SPOJ-CSUMQ)            |                | [Solution B](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/B-Cumulative-Sum-Query.cpp)   |
+| [Problem C - CodeForces 816B](https://vjudge.net/problem/CodeForces-816B)  |                | [Solution C](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/C-Karen-and-Coffee.cpp)       |
+| [Problem D - CodeForces 433B](https://vjudge.net/problem/CodeForces-433B)  |                | [Solution D](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/D-Kuriyama-Mirai's-Stones.cpp) |
+| [Problem E - CodeForces 296C](https://vjudge.net/problem/CodeForces-296C)  |                | [Solution E](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/E-Greg-and-Array.cpp)         |
+| [Problem F - CodeForces 961B](https://vjudge.net/problem/CodeForces-961B)  |                | [Solution F](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/F-Lecture-Sleep.cpp)          |
+| [Problem G - CodeForces 1066C](https://vjudge.net/problem/CodeForces-1066C)|                | [Solution G](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/G-Books-Queries.cpp)          |
+| [Problem H - CodeForces 767A](https://vjudge.net/problem/CodeForces-767A)  |                | [Solution H](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/H-Snacktower.cpp)             |
+| [Problem I - CodeForces 1367C](https://vjudge.net/problem/CodeForces-1367C)|                |                                                                                                            |
+| [Problem J - CodeForces 1660D](https://vjudge.net/problem/CodeForces-1660D)|                | [Solution J](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/J-Maximum-Product-Strikes-Back.cpp) |
+| [Problem K - CodeForces 1473D](https://vjudge.net/problem/CodeForces-1473D)|                | [Solution K](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-3/Sheet/K-Program.cpp)                 |
+
+### 📚 Resources
+
+| Type          | Resource                                          |
+|---------------|---------------------------------------------------|
+| 🎥 Video      | [Frequency array](https://youtu.be/kQGTjql8WjI?si=eWKJb0tbBZQmjhAg) |
+| 🎥 Video      | [Prefix Sum](https://youtu.be/fQwD4-FxQBU?si=I8gpLp6XDN8JQ19j) |
+| 🎥 Video      | [Partial Sum](https://youtu.be/vF78qRAAyx4?si=8plfUgmSkkizpzn9)|
+| 🎥 Video      | [Cumulative (Prefix) Sum - Dr. Mostafa Saad](https://youtu.be/vF78qRAAyx4?si=8plfUgmSkkizpzn9)|
+| 📄 Article    | [Frequency array](https://github.com/MohamedAfifii/ProblemSolving--Arabic?tab=readme-ov-file#2--frequency-array) |
+| 📄 Article    | [Prefix Sum](https://github.com/MohamedAfifii/ProblemSolving--Arabic?tab=readme-ov-file#3--prefix-sum) |
+| 📄 Article    | [Partial Sum](https://github.com/MohamedAfifii/ProblemSolving--Arabic?tab=readme-ov-file#7--partial-sum) |
+| 📄 Article    | [Prefix Sum - USACO](https://usaco.guide/silver/prefix-sums?lang=cpp) |
+| 📄 Article    | [Suffix Sum - GeeksforGeeks](https://www.geeksforgeeks.org/suffix-sum-array/) |
 
 ---
 
