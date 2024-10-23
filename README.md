@@ -174,7 +174,44 @@
 ---
 
 # Week 4
-...
+
+### 📺 Lecture Session
+
+📌 [Watch Part1 - Binary Search](https://youtu.be/b7LHIiDvqZQ) </br>
+📌 [Watch Part2 - Ternary Search & Interactive Problems](https://youtu.be/bUm-_CYA_gI)
+
+| Topic                   | Problems Solved                                                                 | Solution Code                                                                                   |
+|-----------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Binary Search | - [Basic-Binary search](https://vjudge.net/problem/SPOJ-BSEARCH1) <br> - First number greater than x <br> - Floor square root of a given non-negative integer <br> - Same previous problem but on doubles <br> - [Maximum Median](https://codeforces.com/contest/1201/problem/C)| - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/Binary-search.cpp) <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/BS-Problem-2.cpp) <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/BS-Problem-3.cpp)  <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/BS-Problem-4.cpp) <br> - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/Maximum-Median.cpp) |
+| Ternary Search | - [Two Points](https://codeforces.com/gym/100971/problem/F) | - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/Two-Points.cpp) |
+| Interactive Problems | - [Guess the Number](https://codeforces.com/problemset/gymProblem/101021/1) | - [Solution](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Lecture/Guess-the-Number.cpp) |
+
+### 💻 Practice Session
+
+| Topic                        | Link to Video                                                   | Solution Code                                                                                     |
+|------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Recursion & Sorting Practice  | [Watch Practice](#)                                             | [Solution 3](Practice/solution_week2_problem3.cpp) • [Solution 4](Practice/solution_week2_problem4.cpp) |
+
+### 🗒 Weekly Problem Sheet
+📌 [Sheet 4 (Searching & Interactive Problems)](https://vjudge.net/contest/617192)
+
+| Problem                                                        | Video Solution | Solution                                                                                                   |
+|----------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------|
+| [Problem A - ]()|                        | [Solution A]()   |
+| [Problem B - ]() |                        |                                                                                            |
+
+
+### 📚 Resources
+
+| Type          | Resource                                          |
+|---------------|---------------------------------------------------|
+| 🎥 Video      | [Binary Search](https://www.youtube.com/watch?v=2G7RzlxTNPo) |
+| 🎥 Video      | [Ternary Search](https://www.youtube.com/watch?v=Z-1Z-1utYuI) |
+| 🎥 Video      | [Binary Search for Optimization Problems](https://www.youtube.com/watch?v=MTF8a-NYA4I)|
+| 📄 Article    | [Binary Search](https://usaco.guide/silver/binary-search?lang=cpp) |
+| 📄 Article    | [Ternary Search](https://cp-algorithms.com/num_methods/ternary_search.html) |
+| 📄 Article    | [Interactive Problems: Guide for Participants](https://codeforces.com/blog/entry/45307) |
+| 📄 Article    | [Introducing Interactive Problems](https://csacademy.com/blog/introducing-interactive-problems/) |
 
 ---
 
