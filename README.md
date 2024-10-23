@@ -197,9 +197,20 @@
 
 | Problem                                                        | Video Solution | Solution                                                                                                   |
 |----------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------|
-| [Problem A - ]()|                        | [Solution A]()   |
-| [Problem B - ]() |                        |                                                                                            |
-
+| [Problem A - CodeForces 670D1](https://vjudge.net/problem/CodeForces-670D1) |                | [Solution A](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/A-Magic-Powder-1.cpp)       |
+| [Problem B - CodeForces 670D2](https://vjudge.net/problem/CodeForces-670D2) |                | [Solution B](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/B-Magic-Powder-2.cpp)       |
+| [Problem C - CodeForces 371C](https://vjudge.net/problem/CodeForces-371C)  |                | [Solution C](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/C-Hamburgers.cpp) |
+| [Problem D - Gym 101028I](https://vjudge.net/problem/Gym-101028I)  |                | [Solution D](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/D-March-Rain.cpp) |
+| [Problem E - SPOJ AGGRCOW](https://vjudge.net/problem/SPOJ-AGGRCOW)  |                | [Solution E](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/E-Aggressive-cows.cpp)         |
+| [Problem F - CodeForces 1201C](https://vjudge.net/problem/CodeForces-1201C)  |                | [Solution F](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/F-Maximum-Media.cpp)          |
+| [Problem G - CodeForces 51C](https://vjudge.net/problem/CodeForces-51C)  |                |          |
+| [Problem H - CodeForces 1476B](https://vjudge.net/problem/CodeForces-1476B)  |                | [Solution H](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/H-Inflation.cpp)             |
+| [Problem I - Gym 100971F](https://vjudge.net/problem/Gym-100971F)  |                | [Solution I](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/I-Two-Points.cpp)          |
+| [Problem J - SPOJ KOPC12A](https://vjudge.net/problem/SPOJ-KOPC12A)  |                |  |
+| [Problem K - LightOJ 1146](https://vjudge.net/problem/LightOJ-1146)  |                |                 |
+| [Problem L - Gym 101021-1](https://vjudge.net/problem/Gym-101021-1)  |                | [Solution L](https://github.com/ICPC-Damnhour-Community/Level-1-2024/blob/main/Week-4/Sheet/L-Guess-the-Number.cpp)                 |
+| [Problem M - CodeForces 727C](https://vjudge.net/problem/CodeForces-727C)  |                |                |
+| [Problem N - CodeForces 1807E](https://vjudge.net/problem/CodeForces-1807E)  |                |                |
 
 ### 📚 Resources
 
